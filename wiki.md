@@ -1,15 +1,20 @@
 # Europa (Moon)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Europa_in_natural_color.png/1024px-Europa_in_natural_color.png)
+![](https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1350_crop_center-center_82_line/europa-turned-90-degrees-clockwise.jpg.webp)
+*Image of Europa taken by NASA Voyager II Probe*
 
-**Europa**, the fourth-largest moon of Jupiter, is a celestial body that has captivated scientists and space enthusiasts alike. Named after the mythological Greek figure, Europa is a fascinating world shrouded in *mystery and potential for extraterrestrial life*. What sets Europa apart is its *icy surface, concealing a vast subsurface ocean* that holds more than twice the amount of water found on Earth. This icy crust, which displays a *network of fractures and ridges*, presents an intriguing target for *future human exploration*.
+**Europa**, the fourth-largest moon of Jupiter, is a celestial body that has captivated scientists and space enthusiasts alike. Named after the mythological Greek figure, **Europa is a fascinating world shrouded in mystery and potential for extraterrestrial life**. What sets Europa apart is its *icy surface, concealing a vast subsurface ocean* that holds more than twice the amount of water found on Earth. This icy crust, which displays a *network of fractures and ridges*, presents an intriguing target for *future human exploration*.
 
 ## Discovery
+<img src="https://cdn.mos.cms.futurecdn.net/CEkEW2uXjVSWojdeDDCr8K-970-80.jpg.webp" alt="Galileo Portrait" width="500"/>  
+
+*Portrait of Galileo Galilei*
+
 The discovery of Europa, one of Jupiter's intriguing moons, can be attributed to the pioneering observations of **Galileo Galilei**. In 1610, Galileo turned his newly invented telescope towards the night sky and made a groundbreaking revelation. He spotted four points of light orbiting around Jupiter, initially assuming them to be stars. However, as he continued observing over subsequent nights, he noticed that these points of light were in motion relative to Jupiter. Galileo deduced that these were not stars but, in fact, moons orbiting the gas giant.
 
-Galileo named these four moons after mythological figures, and one of them became known as Europa. Europa stood out due to its distinct brightness and predictable appearances during Galileo's observations. This monumental discovery challenged the conventional belief of geocentrism, which held that all celestial bodies revolved around the Earth. Galileo's observations, including those of Europa, lent support to the heliocentric model proposed by Nicolaus Copernicus, positioning the Sun at the center of the solar system. Europa's discovery laid the foundation for further investigations and a deeper understanding of the intriguing moon's composition, characteristics, and potential for harboring life.
+*Galileo named these four moons after mythological figures*, and one of them became known as Europa. Europa stood out due to its distinct brightness and predictable appearances during Galileo's observations. This monumental *discovery challenged the conventional belief of geocentrism*, which held that all celestial bodies revolved around the Earth. Galileo's observations, including those of Europa, lent support to the heliocentric model proposed by Nicolaus Copernicus, positioning the Sun at the center of the solar system. Europa's discovery laid the foundation for further investigations and a deeper understanding of the intriguing moon's composition, characteristics, and potential for harboring life.
 
 ## Geology
-Europa's geology is characterized by a unique and fascinating combination of icy surface features, fractures, and evidence of past or ongoing geological activity. Its geologic processes are primarily driven by tidal forces exerted by Jupiter and its neighboring moons.
+Europa's geology is characterized by a unique and fascinating combination of icy surface features, fractures, and evidence of past or ongoing geological activity. *Its geologic processes are primarily driven by tidal forces exerted by Jupiter and its neighboring moons*.
 
 The most prominent geological feature on Europa is its extensive network of fractures, also known as "lineae." These fractures crisscross the moon's icy surface, stretching for hundreds of kilometers. They vary in width, with some reaching several kilometers across. The lineae are thought to be a result of tidal forces exerted by Jupiter's gravity, causing the icy crust to flex and crack. This suggests that Europa's interior remains geologically active.
 
@@ -18,23 +23,34 @@ Another significant geological characteristic of Europa is the presence of ridge
 In addition to fractures and ridges, scientists have observed evidence of cryovolcanism on Europa. This phenomenon involves the eruption of water, ice, and other volatile substances from beneath the moon's surface. Cryovolcanic features, such as plumes and geysers, have been detected, indicating the presence of a subsurface ocean. These eruptions release material that settles on the surface, contributing to the formation of the moon's icy crust..
 
 ## Europan Ocean
-Europa's subsurface ocean is a remarkable feature that has captivated scientists and fueled speculation about the potential for life beyond Earth. Hidden beneath its icy crust, this vast ocean is believed to contain more than twice the amount of water found on Earth. The ocean is kept in a liquid state due to the heat generated by tidal forces from Jupiter's gravitational pull and the moon's eccentric orbit.
+![](https://spaceplace.nasa.gov/europa/en/europa-cross-section.en.jpg)
+*Europa Geologic and Oceanic Composition*
 
-Estimates suggest that Europa's subsurface ocean could be up to 100 kilometers (60 miles) deep, making it one of the largest known bodies of water in the solar system. The water is thought to be in contact with a rocky seafloor, creating a diverse and potentially habitable environment. The ocean is also likely to contain a variety of dissolved salts and minerals, originating from the moon's rocky interior.
+Europa's subsurface ocean is a remarkable feature that has captivated scientists and fueled speculation about the potential for life beyond Earth. Hidden beneath its icy crust, this vast ocean is believed to contain more than **twice the amount of water found on Earth**. The ocean is kept in a liquid state due to the heat generated by tidal forces from Jupiter's gravitational pull and the moon's eccentric orbit.
 
-The existence of a subsurface ocean on Europa has profound implications for astrobiology. The presence of liquid water, along with the availability of energy and essential chemical elements, makes Europa a prime candidate for hosting life. Scientists speculate that the ocean may be capable of supporting microbial life forms, similar to those found in Earth's extreme environments such as hydrothermal vents. Future missions aim to study the composition and dynamics of Europa's ocean to search for signs of life and gain insights into the potential habitability of this intriguing moon.
+Estimates suggest that Europa's subsurface ocean could be up to 100 kilometers (60 miles) deep, making it *one of the largest known bodies of water in the solar system*. The water is thought to be in contact with a rocky seafloor, creating a diverse and potentially habitable environment. The ocean is also likely to contain a variety of dissolved salts and minerals, originating from the moon's rocky interior.
+
+*The existence of a subsurface ocean on Europa has profound implications for astrobiology*. **The presence of liquid water, along with the availability of energy and essential chemical elements, makes Europa a prime candidate for hosting life**. Scientists speculate that the ocean may be capable of supporting microbial life forms, similar to those found in Earth's extreme environments such as hydrothermal vents. Future missions aim to study the composition and dynamics of Europa's ocean to search for signs of life and gain insights into the potential habitability of this intriguing moon.
 
 ## Human missions
-In recent years, multiple missions have been proposed to explore Europa's mysteries up close. These missions aim to launch spacecraft equipped with advanced scientific instruments to analyze the moon's composition, search for signs of life, and delve into the nature of its subsurface ocean. Through such exploration, Europa has become an enticing target for astrobiologists and planetary scientists, as it holds the tantalizing possibility of unlocking the secrets of life beyond Earth, shaping our understanding of habitability in the solar system and beyond.
+In the 1970s and 1990s, several spacecraft conducted flybys of Jupiter and its moons, including Europa. Pioneer 10 and 11, Voyager 1 and 2, and Galileo spacecraft captured close-up images of Europa and provided valuable data about its surface features, including evidence of a possible subsurface ocean.
 
+#### Galileo Mission (1989-2003)
+The Galileo spacecraft, launched by NASA in 1989, studied Jupiter and its moons for over a decade. It made several flybys of Europa, revealing detailed images of its icy surface, discovering geological features, and gathering evidence for the presence of a subsurface ocean.
+
+#### Europa Clipper Mission
+Currently in development, the Europa Clipper is a NASA mission set to launch in the mid-2020s. The spacecraft will conduct detailed investigations of Europa, aiming to characterize its ice shell, search for subsurface water, and assess its potential habitability.
+
+#### Future Missions
+In addition to the Europa Clipper, several other proposed missions aim to explore Europa further. These include the European Space Agency's Jupiter Icy Moons Explorer (JUICE) mission, scheduled for launch in 2022, and potential future missions from other space agencies worldwide.
 
 ## See also
-- [Nasa Europa Overview](https://solarsystem.nasa.gov/moons/jupiter-moons/europa/overview/)
-- [Nasa Description of Europan Habitability](https://europa.nasa.gov/why-europa/ingredients-for-life/#:~:text=NASA%2FJPL%2DCaltech-,Europa's%20surface%20is%20blasted%20by%20radiation%20from%20Jupiter.,%E2%80%93%20it%20couldn't%20survive.)
-- [Nasa Description of Jovian Moon Discovery](https://www.nasa.gov/feature/410-years-ago-galileo-discovers-jupiter-s-moons)
-
 - [NASA Solar System Visualizer](https://eyes.nasa.gov/apps/solar-system/#/home)
+- [NASA Jovian Moon Overview](https://solarsystem.nasa.gov/moons/jupiter-moons/overview/)
+- [NASA Enceladus Description](https://solarsystem.nasa.gov/moons/saturn-moons/enceladus/in-depth/)
+- [NASA Astrobiology Center](https://astrobiology.nasa.gov/)
+  
 ## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+1. [Nasa Europa Overview](https://solarsystem.nasa.gov/moons/jupiter-moons/europa/overview/)
+2. [Nasa Description of Europan Habitability](https://europa.nasa.gov/why-europa/ingredients-for-life/)
+3. [Nasa Description of Jovian Moon Discovery](https://www.nasa.gov/feature/410-years-ago-galileo-discovers-jupiter-s-moons)
